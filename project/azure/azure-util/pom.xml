@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>cn.easyproject</groupId>
+    <artifactId>easyazure</artifactId>
+    <version>1.1.0-RELEASE</version>
+  </parent>
+  	<artifactId>azure-util</artifactId>
+	<name>Azure Util</name>
+	<packaging>jar</packaging>
+	<url>http://www.easyproject.cn/easyazure</url>
+	<description>
+	Microsoft Azure cloud platform java public components. Provide Https certification install support.
+	</description>
+	
+</project>
